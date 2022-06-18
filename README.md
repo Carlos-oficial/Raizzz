@@ -1,2 +1,2 @@
 # Raizzz
-Trying to develop some basic rendering system with ray marching in pygame
+Trying to develop a basic 3D rendering system in pygame
